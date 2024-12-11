@@ -65,7 +65,7 @@ npm run dev
 ```
 
 ### Start the Backend Development Server  
-Navigate to the `frontend/` folder and run the following command to start the frontend development server:
+Navigate to the `api/` folder and run the following command to start the frontend development server:
 
 ```bash
 Nodemon index.js
